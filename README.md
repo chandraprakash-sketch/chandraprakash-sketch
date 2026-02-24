@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Chandraprakash 🚀  <br><br>Electronics & Communication Engineer with hands-on experience as a STEM Trainer in a CBSE school.  <br><br>💡 Interests:<br>- Embedded Systems<br>- IoT & Microcontrollers (Arduino / ESP)<br>- Python Development<br>- Robotics Projects<br><br>I enjoy converting theoretical concepts into real-world working models.  <br>Currently enhancing my problem-solving and technical skills.<br><br>Let's build and innovate!
+Hello, I'm Chandraprakash 🚀  <br><br>Electronics & Communication Engineer with hands-on experience as a STEM Trainer in a CBSE school.  <br><br>💡 Interests:<br>- Embedded Systems<br>- IoT & Microcontrollers (Arduino / ESP)<br>- Python Development<br>- Robotics Projects and AI projects<br><br>I enjoy converting theoretical concepts into real-world working models.  <br>Currently enhancing my problem-solving and technical skills.<br><br>Let's build and innovate!
 
 
 ## 🌐 Socials:
